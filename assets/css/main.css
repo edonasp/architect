@@ -902,6 +902,12 @@
 		position: relative;
 		display: inline-block;
 	}
+	#one img{
+		width: 30%;
+		float: left;
+		border-radius: 50%;
+		margin-right: 40px;
+		}
 
 		.image:before {
 			content: '';
